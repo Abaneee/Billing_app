@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Billing Form</title>
+</head>
+<body>
+  <h2>Generate Bill</h2>
+  <form action="/print" method="post">
+    <label>RST No:</label><input type="text" name="rst_no" value="{{ rst_no }}" readonly><br>
+    <label>Material:</label><input type="text" name="material" required><br>
+    <label>Vehicle No:</label><input type="text" name="vehicle_no" required><br>
+    <label>Gross Weight (kg):</label><input type="number" name="gross_wt" required><br>
+    <label>Tare Weight (kg):</label><input type="number" name="tare_wt" required><br>
+    <label>Date (DD/MM/YYYY):</label><input type="text" name="date" placeholder="DD/MM/YYYY"><br><br>
+    <button type="submit">Generate Bill</button>
+  </form>
+</body>
+</html>

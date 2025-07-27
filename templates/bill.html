@@ -1,24 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Bill Preview</title>
+  <title>Printed Bill</title>
   <style>
     pre {
       font-family: monospace;
-      background-color: #f9f9f9;
-      padding: 20px;
-      border: 1px solid #ccc;
-    }
-    .buttons {
-      margin: 10px 0;
+      white-space: pre-wrap;
     }
   </style>
 </head>
 <body>
-  <div class="buttons">
-    <button onclick="window.print()">🖨️ Print Bill</button>
-    <a href="/">⬅️ New Bill</a>
-  </div>
+  <h2>Printed Bill Preview</h2>
   <pre>{{ content }}</pre>
 </body>
 </html>

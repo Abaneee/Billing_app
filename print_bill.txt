@@ -1,0 +1,16 @@
+E                                 UDHAGAMANDALAM                                 F
+E                                  MUNICIPALITY                                  F
+E                             THITUGUL COMPOST YARD                              F
+E                                      OOTY                                      F
+
+RST NO     : E0001                             FVEHICLE NO : ETN 78 FD 5555                           F
+MATERIAL   : WASTE                                                              
+--------------------------------------------------------------------------------
+GROSS WT   : E556 kg                           FDATE : 11/02/2025                       
+TARE  WT   : E525 kg                           FDATE : 11/02/2025                       
+NET   WT   : E31 kg                            FETHIRTY-ONE                              F
+--------------------------------------------------------------------------------
+OPERATOR SIGNATURE:
+--------------------------------------------------------------------------------
+
+                                    WELCOME                                     
